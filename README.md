@@ -1,3 +1,52 @@
+## v3.0
+
+Šio leidimo pagrindinis tikslas – sukurti programą, kurios instaliavimas ir paleidimas būtų lengvai suprantamas naudotojui.
+
+### 1. Sukurti "v3.0.setup.msi" ir "setup.exe" failai :
+
+Paleidus "v3.0.setup.msi" arba "setup.exe" failą programa diegiasi automatiškai į "C:/Program files (x86)/VU/Karina-Sturonaite" aplankalą.
+
+### 2. Naudojimosi instrukcija:
+
+### Diegimas naudojant "setup.exe":
+
+#### 1. Atsisiųskite failą:
+- Atsisiųskite setup.exe failą į savo kompiuterį.
+
+#### 2. Paleiskite diegimo programą:
+- Dukart spustelėkite setup.exe, kad pradėtumėte diegimą.
+- Jei pasirodys UAC (vartotojo paskyros valdymo) dialogo langas, paspauskite „Taip“, kad leistumėte programai atlikti pakeitimus.
+
+#### 3. Sekite diegimo vedlio nurodymus:
+- Perskaitykite ir sutikite su galutinio vartotojo licencijos sutartimi (EULA).
+- Pasirinkite diegimo aplanką arba naudokite numatytąjį aplanką.
+- Paspauskite „Next“ (Kitas), kad tęstumėte.
+
+#### 4. Užbaikite diegimą:
+- Paspauskite „Install“ (Diegti), kad pradėtumėte kopijuoti failus ir įdiegti programą.
+- Palaukite, kol procesas baigsis, ir paspauskite „Finish“ (Baigti).
+
+#### 5. Paleiskite programą:
+- Darbalaukyje arba meniu „Start“ suraskite programos nuorodą ir dukart spustelėkite ją.
+
+## Diegimas naudojant "v3.0.setup.msi":
+
+#### 1. Atsisiųskite failą:
+- Atsisiųskite .msi failą į savo kompiuterį.
+
+#### 2. Paleiskite diegimo programą:
+- Dukart spustelėkite .msi failą, kad pradėtumėte diegimą.
+- Jei pasirodys UAC dialogo langas, paspauskite „Taip“, kad leistumėte programai atlikti pakeitimus.
+
+#### 3. Sekite diegimo nurodymus:
+- Perskaitykite ir sutikite su galutinio vartotojo licencijos sutartimi (EULA).
+- Pasirinkite diegimo aplanką arba naudokite numatytąjį aplanką.
+- Paspauskite „Install“ (Diegti), kad pradėtumėte diegimą.
+
+#### 4. Patikrinkite diegimą:
+- Įsitikinkite, kad programa įdiegta, suradę ją meniu „Start“ arba diegimo aplanke.
+
+
 ## v1.5
 
 Šio leidimo pagrindinis tikslas – sukurti abstrakčią bazinę klasę Zmogus ir iš jos išvestinę klasę Studentas, laikantis objektinio programavimo principų. Programa yra pilnai funkcionali ir atitinka 1.5 versijos reikalavimus.
