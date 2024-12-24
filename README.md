@@ -29,7 +29,7 @@ Paleidus "v3.0.setup.msi" arba "setup.exe" failą programa diegiasi automatiška
 #### 5. Paleiskite programą:
 - Darbalaukyje arba meniu „Start“ suraskite programos nuorodą ir dukart spustelėkite ją.
 
-## Diegimas naudojant "v3.0.setup.msi":
+### Diegimas naudojant "v3.0.setup.msi":
 
 #### 1. Atsisiųskite failą:
 - Atsisiųskite .msi failą į savo kompiuterį.
